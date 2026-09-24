@@ -20,7 +20,7 @@ An end-to-end Data Analytics project using **Python, K-Means Clustering, and Pow
 ---
 
 ## 📁 Project Structure
-```text
+
 ├── data/                  # Cleaned datasets & 50 proposed station coordinates
 ├── notebooks/             # Data cleaning, EDA & K-Means clustering code
 ├── visualizations/        # Interactive HTML map & Dashboard screenshots
@@ -37,7 +37,7 @@ Power BI Dashboard:
 
 Tracks operational metrics, hub priorities, and geographic coverage.
 
-![Power BI Dashboard](visualizations/dashboard_overview.png)
+<img width="1223" height="596" alt="Image" src="https://github.com/user-attachments/assets/7aabb86f-5c5d-4599-9f1c-ca7b529524fb" />
 
 🚀 How to Run
 Bash
